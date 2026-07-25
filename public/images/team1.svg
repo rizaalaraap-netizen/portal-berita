@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-label="Ahmad Fauzi">
+  <rect width="640" height="420" fill="#f3f5f8"/>
+  <circle cx="320" cy="160" r="72" fill="#d60000" opacity=".9"/>
+  <path d="M184 356c24-82 84-124 136-124s112 42 136 124" fill="#1f2933"/>
+  <circle cx="294" cy="150" r="8" fill="#fff"/>
+  <circle cx="346" cy="150" r="8" fill="#fff"/>
+  <path d="M292 186c20 16 37 16 57 0" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+</svg>

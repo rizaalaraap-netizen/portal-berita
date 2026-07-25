@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-label="Budi Santoso">
+  <rect width="640" height="420" fill="#f1f6fb"/>
+  <circle cx="320" cy="156" r="68" fill="#d60000"/>
+  <path d="M248 128c24-48 116-48 144 0 4-48-26-78-72-78s-78 30-72 78z" fill="#1f2933"/>
+  <path d="M186 356c25-76 84-112 134-112s109 36 134 112" fill="#1f2933"/>
+  <circle cx="296" cy="156" r="7" fill="#fff"/>
+  <circle cx="344" cy="156" r="7" fill="#fff"/>
+  <path d="M294 190c18 14 34 14 52 0" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+</svg>

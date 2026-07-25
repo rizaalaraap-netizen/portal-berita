@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-label="Ilustrasi teknologi dan pendidikan">
+  <rect width="900" height="560" fill="#f2f6fb"/>
+  <rect x="86" y="96" width="728" height="368" rx="28" fill="#ffffff"/>
+  <rect x="132" y="142" width="330" height="24" rx="12" fill="#d60000"/>
+  <rect x="132" y="196" width="510" height="18" rx="9" fill="#243447" opacity=".76"/>
+  <rect x="132" y="236" width="430" height="18" rx="9" fill="#243447" opacity=".45"/>
+  <rect x="132" y="276" width="360" height="18" rx="9" fill="#243447" opacity=".35"/>
+  <circle cx="650" cy="292" r="92" fill="#d60000" opacity=".12"/>
+  <path d="M650 205v174M563 292h174M589 230l122 122M711 230 589 352" stroke="#d60000" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="650" cy="292" r="34" fill="#d60000"/>
+</svg>

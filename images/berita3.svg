@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-label="Ilustrasi ekonomi nasional">
+  <rect width="900" height="560" fill="#eef8f5"/>
+  <rect x="96" y="92" width="708" height="380" rx="30" fill="#ffffff"/>
+  <path d="M165 382h88V252h-88zM314 382h88V188h-88zM463 382h88V226h-88zM612 382h88V145h-88z" fill="#d60000"/>
+  <path d="M158 186c105 42 171 31 254-44s170-69 283-12" fill="none" stroke="#1f2933" stroke-width="16" stroke-linecap="round"/>
+  <path d="M665 111l45 28-53 17" fill="none" stroke="#1f2933" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-label="Ilustrasi olahraga nasional">
+  <rect width="900" height="560" fill="#fff7f0"/>
+  <path d="M0 390c160-80 260-75 410 10s300 80 490-35v195H0z" fill="#d60000" opacity=".12"/>
+  <circle cx="225" cy="250" r="92" fill="#ffffff" stroke="#1f2933" stroke-width="12"/>
+  <path d="M225 158v184M133 250h184M160 185c50 40 82 40 130 0M160 315c50-40 82-40 130 0" stroke="#1f2933" stroke-width="10" stroke-linecap="round"/>
+  <rect x="410" y="150" width="330" height="48" rx="24" fill="#d60000"/>
+  <rect x="410" y="230" width="390" height="22" rx="11" fill="#1f2933" opacity=".8"/>
+  <rect x="410" y="276" width="300" height="22" rx="11" fill="#1f2933" opacity=".45"/>
+  <rect x="410" y="338" width="160" height="54" rx="27" fill="#1f2933"/>
+</svg>
