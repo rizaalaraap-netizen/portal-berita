@@ -1,0 +1,14 @@
+<?php $__env->startSection('title', 'Tambah Berita | Portal Berita Admin'); ?>
+<?php $__env->startSection('page_title', 'Tambah Berita'); ?>
+
+<?php $__env->startSection('content'); ?>
+    <div class="card border-0 shadow-sm">
+        <div class="card-body">
+            <form action="<?php echo e(route('admin.posts.store')); ?>" method="POST" enctype="multipart/form-data">
+                <?php echo $__env->make('admin.posts._form', ['button' => 'Simpan Berita'], array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?>
+            </form>
+        </div>
+    </div>
+<?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('layouts.admin', array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?><?php /**PATH C:\xampp\htdocs\website-berita\resources\views/admin/posts/create.blade.php ENDPATH**/ ?>
